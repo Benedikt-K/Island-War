@@ -11,7 +11,7 @@ The work was split between the five people listed under "Teamwork Acknowledgemen
 This project was developed collaboratively by a team of five people.  
 > **The work was split between these five team members:**
 
-Margarita Zhdanovich, Max Herwig, Santino Faack, Benedikt Kuss, Danny Spadaro
+Benedikt Kuss, Margarita Zhdanovich, Max Herwig, Santino Faack, Danny Spadaro
 
 
 ## 📁 Assets and Copyright
