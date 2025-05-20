@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea083c49-a72c-469e-8749-1fa702501d5b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/.idea.Client.dir/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/.idea.Client.dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/.idea.Client.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/.idea.Client.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/game/Path.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/Client.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/Client.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/com/game/GameState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/com/networking/Connection.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/com/networking/IPacketListener.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/org/main/Game1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/org/main/Game1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../Game.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/Server.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/Server.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/com/game/GameMap.cs" beforeDir="false" afterPath="$PROJECT_DIR$/com/game/GameMap.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/com/game/GameState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/com/game/GameState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/com/networking/Connection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/com/networking/Connection.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/com/networking/IPacketListener.cs" beforeDir="false" afterPath="$PROJECT_DIR$/com/networking/IPacketListener.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/com/objects/GameObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/com/objects/GameObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/com/objects/ObjectImmovable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/com/objects/ObjectImmovable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/com/objects/ObjectMoving.cs" beforeDir="false" afterPath="$PROJECT_DIR$/com/objects/ObjectMoving.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/com/objects/Terrain.cs" beforeDir="false" afterPath="$PROJECT_DIR$/com/objects/Terrain.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/com/objects/entities/Arbeiter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/com/objects/entities/Worker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/com/objects/immovables/IronOre.cs" beforeDir="false" afterPath="$PROJECT_DIR$/com/objects/immovables/IronOre.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/net/main/Game1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/net/main/Game1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/net/networking/IConnectionListener.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/net/networking/IConnectionListener.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/net/networking/TcpConnectionManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/net/networking/TcpConnectionManager.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="20k0mWtDEDJY8p3ade2tZJlQQE5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea083c49-a72c-469e-8749-1fa702501d5b" name="Changes" comment="" />
+      <created>1636573438490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636573438490</updated>
+      <workItem from="1636573450084" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
