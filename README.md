@@ -1,7 +1,9 @@
 ## Island War
 
-This is a Private Game, it is not intended to be published. Due to the project not being originally created on github, i appear as the sole author of the project, but this is NOT the case!
-The work was split between the five people listed under "Teamwork Acknowledgement".
+This is a Private Game, it is not intended to be published. 
+
+**Due to the project not being originally created on github, I appear as the sole author of the project, but this is NOT the case!
+The work was split between the five people listed under "Teamwork Acknowledgement".**
 
 
 ## 🤝 Teamwork Acknowledgement
