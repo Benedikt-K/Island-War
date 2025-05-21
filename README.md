@@ -29,3 +29,8 @@ If necessary, assets can be replaced with placeholders or free alternatives upon
 ## Structure
 
 The project files are split into Client, Common and Server, Client provides a game window while Server hosts the game. Files containing logic used by both are located in Common.
+
+
+## Gameplay
+
+The game is a two player duel RTS. The goal is to destroy the enemy main building, to do so several buildings and units can be constructed.
