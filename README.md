@@ -3,7 +3,8 @@
 This is a Private Game, it is not intended to be published. 
 
 **Due to the project not being originally created on github, I appear as the sole author of the project, but this is NOT the case!
-The work was split between the five people listed under "Teamwork Acknowledgement".**
+The work was split between the five people listed under "Teamwork Acknowledgement". Due to the shared and overlapping nature of our work, 
+it is difficult to attribute specific parts of the code to individual team members in hindsight.**
 
 
 ## 🤝 Teamwork Acknowledgement
