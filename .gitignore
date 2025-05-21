@@ -263,5 +263,5 @@ FakesAssemblies/
 # Visual Studio 6 workspace options file
 *.opt
 
-/Game/Common/com/game/FightManager.cs
-/GDD/gruppe02-Island_War.pdf
+# ./ideo files
+.idea/
