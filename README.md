@@ -24,3 +24,8 @@ This project contains graphical and/or audio assets that are the property of the
 Most assets were taken from "Stronghold 2" by Firefly Studios.
 
 If necessary, assets can be replaced with placeholders or free alternatives upon request.
+
+
+## Structure
+
+The project files are split into Client, Common and Server, Client provides a game window while Server hosts the game. Files containing logic used by both are located in Common.
